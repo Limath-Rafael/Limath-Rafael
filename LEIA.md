@@ -1,9 +1,10 @@
-👋 Hi, I'm @Limath-Rafael
+User
+👋 Olá, sou @Limath-Rafael
 
-👀 I'm interested in quantitative finance and low-latency software engineering. I want to apply mathematics and engineering to solve practical problems.
+👀 Interesso-me por finanças quantitativas e engenharia de software de baixa latência. Quero aplicar a matemática e engenharia na resolução de problemas práticos.
 
-🌱 I'm currently studying Pure Mathematics at the University of Porto, in Portugal. Alongside my course, I'm delving into programming, focusing on C++ and C# for the development of low-latency software. I'm currently reading "Calculus by James Stewart - 7th Edition - Volume 1," "C++ High Performance" by Björn Andrist, and "Adaptive Code via C#: Agile coding with design patterns and SOLID principles" by Gary McLean Hall.
+🌱 Neste momento, estou a estudar Matemática Pura na Universidade do Porto, em Portugal. Em paralelo ao meu curso, estou a aprofundar-me em programação, com foco em C++ e C# para o desenvolvimento de software de baixa latência. Atualmente, estou a ler "Cálculo - James Stewart - 7.ª Edição - Volume 1", "C++ High Performance" de Björn Andrist e "Adaptive Code via C#: Agile coding with design patterns and SOLID principles" de Gary McLean Hall.
 
-💞️ I'm looking to collaborate on projects that lie at the intersection of mathematics and technology, whether it's developing financial software, optimizing algorithms for low latency, or applying mathematical theories to solve complex problems in the software industry.
+💞️ Procuro colaborar em projectos que se situem na intersecção da matemática e da tecnologia, seja a desenvolver software financeiro, a optimizar algoritmos para baixa latência ou a aplicar teorias matemáticas para resolver problemas complexos na indústria do software.
 
-📫 To get in touch with me, you can send me a message via WhatsApp: +351 920 539 133. I'm open to discussions about projects and collaboration opportunities.
+📫 Para entrar em contacto comigo, pode enviar-me uma mensagem através do WhatsApp: +351 920 539 133. Estou aberto a discussões sobre projectos e oportunidades de colaboração.
